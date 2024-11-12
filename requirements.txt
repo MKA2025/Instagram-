@@ -1,2 +1,5 @@
 python-telegram-bot==20.0  # Adjust the version as needed
 instaloader==4.8.3          # Adjust the version as needed
+pyTelegramBotAPI
+requests
+gunicorn
