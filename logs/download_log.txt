@@ -1,0 +1,2 @@
+[YYYY-MM-DD HH:MM:SS] INFO: Downloaded profile: <username>
+[YYYY-MM-DD HH:MM:SS] ERROR: Failed to download profile: <username> - <error_message>
